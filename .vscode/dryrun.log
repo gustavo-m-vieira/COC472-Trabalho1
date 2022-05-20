@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/gustavomov/Documentos/COC472-Trabalho1'
+make: Leaving directory '/home/gustavomov/Documentos/COC472-Trabalho1'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
